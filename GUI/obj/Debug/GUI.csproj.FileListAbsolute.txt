@@ -945,3 +945,7 @@ C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\Contr
 C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoRoupa.resources
 C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoRoupa.resources
 C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoRoupa.resources
+C:\Users\Josué\SkyDrive\ControleEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Josué\SkyDrive\ControleEstoque\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Josué\SkyDrive\ControleEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Josué\SkyDrive\ControleEstoque\GUI\obj\Debug\GUI.pdb

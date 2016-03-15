@@ -265,7 +265,8 @@ namespace ControleDeEstoque.GUI
         //-------------------------------------------------------------------------------------------------------------------
         private void frmCadastroCliente_Load(object sender, EventArgs e)
         {
-            this.alteraBotoes(1);       
+            this.alteraBotoes(1);   
+            //este é um comentario    
         }
         //-------------------------------------------------------------------------------------------------------------------
         private void frmCadastroCliente_KeyDown(object sender, KeyEventArgs e)
