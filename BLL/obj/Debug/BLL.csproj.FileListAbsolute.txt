@@ -1,0 +1,195 @@
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\BLL\obj\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\BLL\bin\Debug\Ferramentas.pdb

@@ -1,0 +1,98 @@
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Modelo\obj\Debug\Modelo.pdb

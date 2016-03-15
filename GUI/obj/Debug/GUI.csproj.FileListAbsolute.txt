@@ -1,0 +1,947 @@
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal.resources
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+c:\users\lab1\documents\visual studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+Z:\Danilo\Topicos I\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+Z:\Danilo\Topicos I\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+Z:\Danilo\Topicos I\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\lab1\Documents\Visual Studio 2012\Projects\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+G:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+G:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+G:\Pendrive\Arquivos\Sistemas de Informação\6º Termo\Topicos I\Controle de Estoque V2\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Lucas\Desktop\Guevara\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\Guevara\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Guevara\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.CodeAnalysisLog.xml
+C:\Users\lab1\Desktop\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.lastcodeanalysissucceeded
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+G:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Lucas\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmBackUpBancoDeDados.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\lab1\Desktop\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+E:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+E:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+E:\Arquivos\Lucas\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Lucas\Desktop\Faculdade\6º Termo\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\3º Tópicos especiais em Sistemas I\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+G:\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+G:\Arquivos\Lucas\Estagio supervisionado II\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmDesenvolvedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmGraficos.resources
+C:\Users\Guevara\Desktop\Projetos\Meu programa - Cópia\ControleDeEstoque\GUI\obj\Debug\GUI.frmLembretes.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\GUI\obj\Debug\ControleDeEstoque.GUI.frmDesenvolvedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmGraficos.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque\GUI\obj\Debug\GUI.frmLembretes.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDesenvolvedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmGraficos.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmRecuperarSenha.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Meu Programa\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLembretes.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDesenvolvedor.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmModeloCadastro.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmRecuperarSenha.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroNovoUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.pdb
+G:\Arquivos\Lucas\8º Termo\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+G:\Arquivos\Lucas\8º Termo\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+G:\Arquivos\Lucas\8º Termo\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmBackUpBancoDeDados.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroNovoUsuario.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDesenvolvedor.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmRecuperarSenha.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmTrocarSenha.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroMarcas.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaMarcas.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCor.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroMarcas.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroNovoUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaMarcas.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDesenvolvedor.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCor.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPosicaoDoDia.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroMarcas.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroNovoUsuario.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaMarcas.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCor.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroMarcas.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroNovoUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaMarcas.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCor.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioUndMedida.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDevedores.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaooBancoDeDadosFora.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmComprovanteVenda.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\BLL.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\DAL.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Modelo.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroMarcas.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCliente.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroFornecedor.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroNovoUsuario.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroProduto.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoPagamento.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroUsuario.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmComprovanteVenda.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaooBancoDeDadosFora.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaMarcas.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCliente.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCompra.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaFornecedor.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaProduto.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaTipoPagamento.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUndMedida.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaUsuario.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaVenda.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDevedores.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmLogin.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoCompra.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmMovimentacaoVenda.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmPrincipal.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroCor.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCategoria.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCliente.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioCompra.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioFornecedor.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioProduto.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioSubCategoria.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoPagamento.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioVenda.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSplashScreen.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSobre.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmVerificacaoSenhaBanco.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmComprovanteVenda.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConfiguracaooBancoDeDadosFora.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmDevedores.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmSobre.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmVerificacaoSenhaBanco.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCor.resources
+G:\Nova pasta\ControleDeEstoque - Cópia\GUI\bin\Debug\GUI.exe.config
+G:\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\Interop.AcroPDFLib.dll
+G:\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+G:\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.exe
+G:\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmConsultaCor.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoRoupa.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoRoupa.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\ControleDeEstoque.GUI.frmCadastroTipoRoupa.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\GUI\obj\Debug\GUI.frmRelatorioTipoRoupa.resources

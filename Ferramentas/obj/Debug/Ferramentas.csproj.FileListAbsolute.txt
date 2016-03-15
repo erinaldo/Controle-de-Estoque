@@ -1,0 +1,47 @@
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Estágio Supervisionado III\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\Lucas\Desktop\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe.config
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.Properties.Resources.resources
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.csproj.GenerateResource.Cache
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.exe
+C:\Users\Guevara\Desktop\Faculdade\Projetos\Nova pasta\ControleDeEstoque - Cópia\Ferramentas\obj\Debug\Ferramentas.pdb

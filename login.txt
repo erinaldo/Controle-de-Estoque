@@ -1,0 +1,76 @@
+using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+
+namespace ControleDeEstoque.GUI
+{
+    public partial class frmLogin : Form
+    {
+        SqlConnection cn = null;
+        public bool logado = false;
+        
+
+        public frmLogin()
+        {
+            InitializeComponent();          
+        }
+      
+        public void logar()
+        {         
+            cn = new SqlConnection("server=JOEL-PC\\SQLEXPRESS; database=ControleDeEstoque1; user=sa; pwd=jm716610");
+
+            try
+            {               
+                SqlCommand cmd = new SqlCommand("SELECT COUNT (log_cod) FROM login WHERE log_usuario = @usuario AND log_senha = @senha",cn);
+
+                cmd.Parameters.Add("@usuario", SqlDbType.VarChar).Value = txtUsuario.Text;
+                cmd.Parameters.Add("@senha", SqlDbType.VarChar).Value = txtSenha.Text;
+
+                cn.Open();
+
+                int v = (int)cmd.ExecuteScalar();
+
+                if (v > 0)
+                {
+                    logado = true;
+                    //MessageBox.Show("Seja bem-vindo! \n\n " + txtUsuario.Text);
+                    this.Dispose();
+                    frmPrincipal principal = new frmPrincipal();
+                    principal.ShowDialog();                   
+                }
+                else
+                {
+                    MessageBox.Show("Usuário ou senha incorreto!", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    logado = false;
+                    txtUsuario.Clear();
+                    txtSenha.Clear();
+                    txtUsuario.Focus();
+                }
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show("Erro!   " + erro.Message);
+            }           
+        }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            logar();            
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void txtSenha_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                logar();                
+            }
+        }
+        
+    }
+}

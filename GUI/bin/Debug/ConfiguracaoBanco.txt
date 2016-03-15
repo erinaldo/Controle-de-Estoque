@@ -1,0 +1,4 @@
+.\SQLEXPRESS
+controledeestoque
+sa
+lucas

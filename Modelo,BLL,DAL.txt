@@ -1,0 +1,292 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.SqlClient;
+using System.Data;
+using ControleDeEstoque.Modelo;
+using ControleDeEstoque.DAL;
+
+namespace ControleDeEstoque.BLL
+{
+    public class BLLLogin
+    {
+        public void Incluir(ModeloLogin obj)
+        {
+            if (obj.log_usuario.Trim().Length == 0)
+            {
+                throw new Exception("O nome do usuário é obrigatório");
+            }
+            obj.log_usuario = obj.log_usuario.ToUpper();
+
+            //*****************************************************************************
+
+            if (obj.log_senha.Trim().Length == 0)
+            {
+                throw new Exception("A senha é obrigatório");
+            }
+            
+            DALLogin DALobj = new DALLogin(new DALConexao(DALDadosDoBanco.stringDeConexao));
+            DALobj.Incluir(obj);
+        }
+
+        public void Alterar(ModeloLogin obj)
+        {
+            if (obj.log_usuario.Trim().Length == 0)
+            {
+                throw new Exception("O nome do usuário é obrigatório");
+            }
+            obj.log_usuario = obj.log_usuario.ToUpper();
+
+            //*****************************************************************************
+
+            if (obj.log_senha.Trim().Length == 0)
+            {
+                throw new Exception("A senha é obrigatório");
+            }
+
+            DALLogin DALobj = new DALLogin(new DALConexao(DALDadosDoBanco.stringDeConexao));
+            DALobj.Alterar(obj);
+        }
+
+        public void Excluir(int codigo)
+        {
+            DALLogin DALobj = new DALLogin(new DALConexao(DALDadosDoBanco.stringDeConexao));
+            DALobj.Excluir(codigo);
+        }
+
+        public DataTable Listagem()
+        {
+            DALLogin DALobj = new DALLogin(new DALConexao(DALDadosDoBanco.stringDeConexao));
+            return DALobj.Listagem();
+        }
+
+        public DataTable ListagemComFiltro(String valor)
+        {
+            DALLogin DALobj = new DALLogin(new DALConexao(DALDadosDoBanco.stringDeConexao));
+            return DALobj.ListagemComFiltro(valor);
+        }
+
+        public ModeloLogin carregaModelo(int codigo)
+        {
+            DALLogin DALobj = new DALLogin(new DALConexao(DALDadosDoBanco.stringDeConexao));
+            return DALobj.carregaModelo(codigo);
+        }
+    }
+}
+
+
+---------------------------------------------------------------------------------------------
+
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ControleDeEstoque.Modelo;
+
+namespace ControleDeEstoque.DAL
+{
+    public class DALLogin
+    {
+        private DALConexao cn;
+
+        public DALLogin(DALConexao conexao)
+        {
+            this.cn = conexao;
+        }
+
+        public void Incluir(ModeloLogin obj)
+        {
+            try
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn.Conexao;
+                cmd.CommandText = "insert into login(log_usuario, log_senha) values (@usuario,@senha); select @@IDENTITY";
+
+                cmd.Parameters.AddWithValue("@usuario", obj.log_usuario);
+                cmd.Parameters.AddWithValue("@senha", obj.log_senha);
+
+                cn.Conectar();
+                obj.log_cod = Convert.ToInt32(cmd.ExecuteScalar());
+
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("SQL ERROR: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("ERROR: " + ex.Message);
+            }
+            finally
+            {
+                cn.Desconectar();
+            }
+
+        }
+
+        public void Alterar(ModeloLogin obj)
+        {
+            try
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn.Conexao;
+                cmd.CommandText = "UPDATE login SET log_usuario = @usuario, log_senha = @senha WHERE log_cod = @cod";
+
+                cmd.Parameters.AddWithValue("@cod", obj.log_cod);
+                cmd.Parameters.AddWithValue("@usuario", obj.log_usuario);
+                cmd.Parameters.AddWithValue("@senha", obj.log_senha);
+               
+                cn.Conectar();
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Servidor SQL Erro: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+            finally
+            {
+                cn.Desconectar();
+            }
+        }
+
+        public void Excluir(int codigo)
+        {
+            try
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn.Conexao;
+                cmd.CommandText = "delete from login WHERE log_cod = @cod";
+
+                cmd.Parameters.AddWithValue("@cod", codigo);
+
+                cn.Conectar();
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("SQL ERROR: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("ERROR: " + ex.Message);
+            }
+            finally
+            {
+                cn.Desconectar();
+            }
+        }
+
+
+        public DataTable Listagem()
+        {
+            DataTable tabela = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter("Select * from login", DALDadosDoBanco.stringDeConexao);
+            da.Fill(tabela);
+            return tabela;
+        }
+
+        public DataTable ListagemComFiltro(String valor)
+        {
+            DataTable tabela = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter("Select * from login where log_usuario like '%" +
+                valor + "%'", DALDadosDoBanco.stringDeConexao);
+            da.Fill(tabela);
+            return tabela;
+        }
+
+        public ModeloLogin carregaModelo(int codigo)
+        {
+            ModeloLogin modelo = new ModeloLogin();
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = cn.Conexao;
+            cmd.CommandText = "select * from login where log_cod =" + codigo.ToString();
+            cn.Conectar();
+            SqlDataReader registro = cmd.ExecuteReader();
+            if (registro.HasRows)
+            {
+                registro.Read();
+                modelo.log_cod = Convert.ToInt32(registro["log_cod"]);
+                modelo.log_usuario = Convert.ToString(registro["log_usuario"]);
+                modelo.log_senha = Convert.ToString(registro["log_senha"]);
+            }
+            return modelo;
+        }       
+    }
+}
+
+
+------------------------------------------------------------------------------------
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ControleDeEstoque.Modelo
+{
+    public class ModeloLogin
+    {
+        public ModeloLogin()
+        {
+            this.log_cod = 0;
+            this.log_usuario = "";
+            this.log_senha = "";
+        }
+
+        public ModeloLogin(int cod, String usuario, String senha)
+        {
+            this.log_cod = cod;
+            this.log_usuario = usuario;
+            this.log_senha = senha;
+        }
+
+        private int _log_cod;
+        public int log_cod
+        {
+            get
+            {
+                return this._log_cod;
+            }
+            set
+            {
+                this._log_cod = value;
+            }
+        }
+
+        private String _log_usuario;
+        public String log_usuario
+        {
+            get
+            {
+                return this._log_usuario;
+            }
+            set
+            {
+                this._log_usuario = value;
+            }
+        }
+
+        private String _log_senha;
+        public String log_senha
+        {
+            get
+            {
+                return this._log_senha;
+            }
+            set
+            {
+                this._log_senha = value;
+            }
+        }
+    }
+}
