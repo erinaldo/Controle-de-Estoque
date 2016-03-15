@@ -949,3 +949,7 @@ C:\Users\Josué\SkyDrive\ControleEstoque\GUI\bin\Debug\GUI.exe.config
 C:\Users\Josué\SkyDrive\ControleEstoque\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
 C:\Users\Josué\SkyDrive\ControleEstoque\GUI\obj\Debug\GUI.exe
 C:\Users\Josué\SkyDrive\ControleEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas\Desktop\ControleEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas\Desktop\ControleEstoque\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Lucas\Desktop\ControleEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas\Desktop\ControleEstoque\GUI\obj\Debug\GUI.pdb
