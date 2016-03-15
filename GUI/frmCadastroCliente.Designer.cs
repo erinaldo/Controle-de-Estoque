@@ -52,7 +52,7 @@
             this.label23 = new System.Windows.Forms.Label();
             this.txtLocalDeTrabalho = new System.Windows.Forms.TextBox();
             this.label22 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
+            this.lbDataNasc = new System.Windows.Forms.Label();
             this.mtbDataNascimento = new System.Windows.Forms.MaskedTextBox();
             this.gbTipoCliente = new System.Windows.Forms.GroupBox();
             this.rbJuridica = new System.Windows.Forms.RadioButton();
@@ -354,7 +354,7 @@
             this.pnDados.Controls.Add(this.label23);
             this.pnDados.Controls.Add(this.txtLocalDeTrabalho);
             this.pnDados.Controls.Add(this.label22);
-            this.pnDados.Controls.Add(this.label6);
+            this.pnDados.Controls.Add(this.lbDataNasc);
             this.pnDados.Controls.Add(this.mtbDataNascimento);
             this.pnDados.Controls.Add(this.gbTipoCliente);
             this.pnDados.Controls.Add(this.txtEmail);
@@ -408,7 +408,7 @@
             this.label23.ForeColor = System.Drawing.SystemColors.Control;
             this.label23.Location = new System.Drawing.Point(334, 378);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(155, 20);
+            this.label23.Size = new System.Drawing.Size(154, 20);
             this.label23.TabIndex = 147;
             this.label23.Text = "Telefone da Empresa";
             // 
@@ -427,20 +427,20 @@
             this.label22.ForeColor = System.Drawing.SystemColors.Control;
             this.label22.Location = new System.Drawing.Point(16, 379);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(132, 20);
+            this.label22.Size = new System.Drawing.Size(131, 20);
             this.label22.TabIndex = 145;
             this.label22.Text = "Local de Trabalho";
             // 
-            // label6
+            // lbDataNasc
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
-            this.label6.ForeColor = System.Drawing.SystemColors.Control;
-            this.label6.Location = new System.Drawing.Point(332, 316);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(151, 20);
-            this.label6.TabIndex = 144;
-            this.label6.Text = "Data de Nascimento";
+            this.lbDataNasc.AutoSize = true;
+            this.lbDataNasc.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold);
+            this.lbDataNasc.ForeColor = System.Drawing.SystemColors.Control;
+            this.lbDataNasc.Location = new System.Drawing.Point(332, 316);
+            this.lbDataNasc.Name = "lbDataNasc";
+            this.lbDataNasc.Size = new System.Drawing.Size(151, 20);
+            this.lbDataNasc.TabIndex = 144;
+            this.lbDataNasc.Text = "Data de Nascimento";
             // 
             // mtbDataNascimento
             // 
@@ -544,7 +544,7 @@
             this.label13.ForeColor = System.Drawing.SystemColors.Control;
             this.label13.Location = new System.Drawing.Point(465, 260);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(103, 20);
+            this.label13.Size = new System.Drawing.Size(102, 20);
             this.label13.TabIndex = 137;
             this.label13.Text = "Telefone Fixo";
             // 
@@ -722,7 +722,7 @@
             this.lbValorIncorreto.ForeColor = System.Drawing.Color.Red;
             this.lbValorIncorreto.Location = new System.Drawing.Point(370, 78);
             this.lbValorIncorreto.Name = "lbValorIncorreto";
-            this.lbValorIncorreto.Size = new System.Drawing.Size(114, 20);
+            this.lbValorIncorreto.Size = new System.Drawing.Size(113, 20);
             this.lbValorIncorreto.TabIndex = 119;
             this.lbValorIncorreto.Text = "Valor incorreto";
             this.lbValorIncorreto.Visible = false;
@@ -801,7 +801,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.MaskedTextBox mtbRGIE;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label lbDataNasc;
         private System.Windows.Forms.MaskedTextBox mtbDataNascimento;
         private System.Windows.Forms.MaskedTextBox mtbTelefoneTrabalho;
         private System.Windows.Forms.Label label23;

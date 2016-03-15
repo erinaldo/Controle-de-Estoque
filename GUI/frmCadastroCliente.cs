@@ -372,6 +372,8 @@ namespace ControleDeEstoque.GUI
             {
                 txtRSocial.Visible = false;
                 label5.Visible = false;
+                lbDataNasc.Visible = true;
+                mtbDataNascimento.Visible = true;
                 label3.Text = "CPF";
                 label4.Text = "RG";
             }
@@ -379,6 +381,8 @@ namespace ControleDeEstoque.GUI
             {
                 txtRSocial.Visible = true;
                 label5.Visible = true;
+                lbDataNasc.Visible = false;
+                mtbDataNascimento.Visible = false;
                 label3.Text = "CNPJ";
                 label4.Text = "IE";
             }
