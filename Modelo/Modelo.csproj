@@ -47,6 +47,7 @@
     <Compile Include="ModeloItensCompra.cs" />
     <Compile Include="ModeloItensVenda.cs" />
     <Compile Include="ModeloLogin.cs" />
+    <Compile Include="ModeloNota.cs" />
     <Compile Include="ModeloParcelascompra.cs" />
     <Compile Include="ModeloParcelasvenda.cs" />
     <Compile Include="ModeloProduto.cs" />

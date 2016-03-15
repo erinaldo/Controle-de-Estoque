@@ -17,6 +17,8 @@ namespace ControleDeEstoque.Modelo
             this.pro_cod = 0;
             this.pro_nome = "";
             this.pro_qtde = 0;
+            this.pro_valorvenda = 0;
+            this.pro_valortotal = 0;
         }
 
         /*
@@ -31,7 +33,7 @@ namespace ControleDeEstoque.Modelo
 	[nt_valorimposto]            numeric(8,2)  NULL
          */
         //-------------------------------------------------------------------------------------------------------------------
-        public ModeloNota(int notacod, int notavalortotal, int notavalorimposto, int procod, String pronome, int proqtde)
+        public ModeloNota(int notacod, int notavalortotal, int notavalorimposto, int procod, String pronome, int proqtde, int produtovalorvenda, int produtovalototal)
         {
             this.nt_cod = notacod;
             this.nt_valortotal = notavalortotal;
@@ -39,6 +41,8 @@ namespace ControleDeEstoque.Modelo
             this.pro_cod = procod;
             this.pro_nome = pronome;
             this.pro_qtde = proqtde;
+            this.pro_valorvenda = produtovalorvenda;
+            this.pro_valortotal = produtovalototal;
         }
         //-------------------------------------------------------------------------------------------------------------------
         private int _nt_cod;
@@ -116,6 +120,32 @@ namespace ControleDeEstoque.Modelo
             set
             {
                 this._pro_qtde = value;
+            }
+        }
+        //-------------------------------------------------------------------------------------------------------------------
+        private int _pro_valorvenda;
+        public int pro_valorvenda
+        {
+            get
+            {
+                return this._pro_valorvenda;
+            }
+            set
+            {
+                this._pro_valorvenda = value;
+            }
+        }
+        //-------------------------------------------------------------------------------------------------------------------
+        private int _pro_valortotal;
+        public int pro_valortotal
+        {
+            get
+            {
+                return this._pro_valortotal;
+            }
+            set
+            {
+                this._pro_valortotal = value;
             }
         }
         //-------------------------------------------------------------------------------------------------------------------

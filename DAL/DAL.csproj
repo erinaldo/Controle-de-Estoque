@@ -51,6 +51,7 @@
     <Compile Include="DALFornecedor.cs" />
     <Compile Include="DALItensCompra.cs" />
     <Compile Include="DALItensVenda.cs" />
+    <Compile Include="DALNota.cs" />
     <Compile Include="DALParcelascompra.cs" />
     <Compile Include="DALParcelasVenda.cs" />
     <Compile Include="DALProduto.cs" />

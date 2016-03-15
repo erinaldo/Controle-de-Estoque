@@ -47,6 +47,7 @@
     <Compile Include="BLLFornecedor.cs" />
     <Compile Include="BLLItensCompra.cs" />
     <Compile Include="BLLItensVenda.cs" />
+    <Compile Include="BLLNota.cs" />
     <Compile Include="BLLParcelasCompra.cs" />
     <Compile Include="BLLParcelasVenda.cs" />
     <Compile Include="BLLProduto.cs" />

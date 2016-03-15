@@ -742,12 +742,19 @@ namespace ControleDeEstoque.GUI
                     //inserir os itens
                     ModeloItensVenda item = new ModeloItensVenda();
                     BLLItensVenda BllItem = new BLLItensVenda();
+
+                    int codigoproduto = 0;
+                    int qtdeproduto = 0;
+                    
+
                     for (int i = 0; i < dgvItens.RowCount; i++)
                     {
                         item.itv_cod = i + 1;
                         item.pro_cod = Convert.ToInt32(dgvItens.Rows[i].Cells[0].Value);
+                        codigoproduto = Convert.ToInt32(dgvItens.Rows[i].Cells[0].Value);
                         item.ven_cod = Convert.ToInt32(venda.ven_cod);
                         item.itv_qtde = Convert.ToInt32(dgvItens.Rows[i].Cells[2].Value);
+                        qtdeproduto = Convert.ToInt32(dgvItens.Rows[i].Cells[2].Value);
                         item.itv_valor = Convert.ToDouble(dgvItens.Rows[i].Cells[3].Value);
 
                         //BllItem.incluir(item);
@@ -791,7 +798,15 @@ namespace ControleDeEstoque.GUI
                         modeloparvenda.pve_status = 1;
                         bll.AlterarStatus(modeloparvenda);
                     }
-                    
+
+                    ModeloNota nota = new ModeloNota();
+                    BLLNota bllnota = new BLLNota();
+                    nota.nt_cod = venda.ven_cod;
+                    nota.nt_valorimposto = 0;
+                    nota.nt_valortotal = 0;
+                    nota.pro_cod = codigoproduto;
+                    nota.pro_qtde = qtdeproduto;
+
                     tran.Commit();
                     MessageBox.Show("Registro incluido com sucesso \n Código Gerado: " + venda.ven_cod, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     //btComprovante.Visible = true;
